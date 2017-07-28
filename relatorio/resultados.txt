@@ -1,0 +1,31 @@
+https://www.overleaf.com/10268391kwvgzybbhxqb#/38047583/
+
+############################################################
+
+Parametros para resultados:
+C = 10
+mu = 1
+N = varia (10 a 60)
+lambda = C/N
+taxa de infecao = depende do modelo
+taxa de natalidade = 0.4
+taxa mortalidade = 0.5 
+gamma = varia (0.1 a 2.6)
+
+
+grafico = N x p_d (com margenerror)
+grafico = dominio x p_ds (com margenerror)
+
+
+Iteracoes:
+10^3 10^4 (10^5 nao foi necessario)
+
+original multiplicativo
+original aditivo
+multiplicativo com natalidade
+multiplicativo com mortalidade 
+multiplicativo com recuperados 
+multiplicativocom os 3 juntos 
+
+
+
